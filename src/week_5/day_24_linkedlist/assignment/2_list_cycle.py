@@ -15,14 +15,12 @@ class Solution:
             hare = hare.next.next
             if snail == hare:
                 break
-        print(snail.val, hare.val)
         snail = A
         while snail != hare:
-            print(snail.val,hare.val)
+            if not snail or not hare:
+                return None
             snail = snail.next
             hare = hare.next
-            print(snail.val,hare.val)
-
         return snail
 
 if __name__ == '__main__':

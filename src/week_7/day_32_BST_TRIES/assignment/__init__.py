@@ -1,0 +1,2 @@
+[25, 18, 30, 14, 21, 28, 33, 6, 17, 20, 22, 27, 29, 31, 43, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[18, 11, 24, 6, 14, 21, 28, 4, 7, 12, 16, 19, 22, 25, 31, None, 5, None, 9, None, 13, 15, 17, None, 20, None, 23, None, 26, 30, 34, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
